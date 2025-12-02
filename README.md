@@ -1,9 +1,19 @@
-## Hi there 👋
+## Hi I'm Brandon!👋
+
+🎓 Education:
+Biomedical Engineering @ The University of Massachusetts Amherst, Expected May 2028
+
+🛠️ Current Projects:
+Gait Correction Haptic Feedback Shoe | UMass Medtech Team
+- I am collaborating with a group of biomedical engineering students to design a wearable device aimed at improving gait rehabilitation outcomes for post-stroke patients
+- Skills: Arduino, Autodesk Fusion (Fusion 360), Circuit & System Design, MATLAB.
+
+
 
 <!--
 **brandnferreira/brandnferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
